@@ -1,0 +1,10 @@
+.fieldset{
+    background-color: white;
+    align-items: inline;
+}
+.button {
+    background-color: blue;
+}
+.body {
+    background-color: rgb(202, 204, 206);
+}
